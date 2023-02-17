@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerb890&theme=synthwave)](https://tylerb890.github.io/)
 
-[//]: # ( [![Tylers's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tylerb890&layout=compact&theme=synthwave)](https://tylerb890.github.io/) )
